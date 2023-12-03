@@ -1,6 +1,5 @@
 # oshio-94.github.io
 Maze_Landing_Page
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
